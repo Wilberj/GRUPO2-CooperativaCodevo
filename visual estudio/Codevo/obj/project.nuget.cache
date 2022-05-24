@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m9uGE6aQYsJYW64W3unoKpHSqAda9uUy2Fz9CiTREooK4+Ft3s+XtFaTzwfsE56Ig3SmIIFYx/UgVUgqampFxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LAB02_PC20\\source\\repos\\Codevo\\Codevo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LAB02_PC20\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}

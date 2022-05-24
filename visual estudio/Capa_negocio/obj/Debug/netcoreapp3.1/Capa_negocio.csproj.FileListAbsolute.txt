@@ -1,0 +1,9 @@
+C:\Users\LAB02_PC20\source\repos\Capa_negocio\bin\Debug\netcoreapp3.1\Capa_negocio.deps.json
+C:\Users\LAB02_PC20\source\repos\Capa_negocio\bin\Debug\netcoreapp3.1\Capa_negocio.dll
+C:\Users\LAB02_PC20\source\repos\Capa_negocio\bin\Debug\netcoreapp3.1\Capa_negocio.pdb
+C:\Users\LAB02_PC20\source\repos\Capa_negocio\obj\Debug\netcoreapp3.1\Capa_negocio.csprojAssemblyReference.cache
+C:\Users\LAB02_PC20\source\repos\Capa_negocio\obj\Debug\netcoreapp3.1\Capa_negocio.AssemblyInfoInputs.cache
+C:\Users\LAB02_PC20\source\repos\Capa_negocio\obj\Debug\netcoreapp3.1\Capa_negocio.AssemblyInfo.cs
+C:\Users\LAB02_PC20\source\repos\Capa_negocio\obj\Debug\netcoreapp3.1\Capa_negocio.csproj.CoreCompileInputs.cache
+C:\Users\LAB02_PC20\source\repos\Capa_negocio\obj\Debug\netcoreapp3.1\Capa_negocio.dll
+C:\Users\LAB02_PC20\source\repos\Capa_negocio\obj\Debug\netcoreapp3.1\Capa_negocio.pdb
